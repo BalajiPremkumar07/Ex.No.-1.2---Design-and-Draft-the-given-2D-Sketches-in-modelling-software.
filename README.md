@@ -14,22 +14,29 @@
  2.	Select the plane for sketching. 
  3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
  
- ![image](https://user-images.githubusercontent.com/113594316/198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968.png)
+<img width="385" height="807" alt="Screenshot 2026-10-15 110650" src="https://github.com/user-attachments/assets/c87c3090-719e-4927-9493-721ca37b851d" />
+
  4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
  
- ![image](https://user-images.githubusercontent.com/113594316/198232771-48e6582d-4410-430a-a9d4-70e400255580.png)
+<img width="232" height="706" alt="Screenshot 2026-10-15 110724" src="https://github.com/user-attachments/assets/9699f591-b9af-43f8-9f9b-497f7e352095" />
+
  
  5.	Use inspect feature to measure the dimensions of sketch.
  
- ![image](https://user-images.githubusercontent.com/113594316/198232845-1608e574-732c-44b2-9921-39e920b70e2e.png)
+<img width="295" height="553" alt="Screenshot 2026-10-15 110838" src="https://github.com/user-attachments/assets/a23047c3-0cc2-4d4f-a1a0-833fe7f389cb" />
+
  
  6.	After finishing the sketch use finish sketch option to finalize the sketch.
- ![image](https://user-images.githubusercontent.com/113594316/198232907-8275f39c-9031-4cf4-b0c4-8eb568e477ab.png)
+
+<img width="312" height="567" alt="Screenshot 2026-10-15 110919" src="https://github.com/user-attachments/assets/3893134c-c48c-4006-9036-858f42ccbb7c" />
+
+
  7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
  
- ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
- 
- ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
+<img width="340" height="456" alt="Screenshot 2026-10-15 111012" src="https://github.com/user-attachments/assets/1f7cefe6-b346-425d-a6ca-c942ee87d597" />
+
+ <img width="500" height="540" alt="Screenshot 2026-10-15 111037" src="https://github.com/user-attachments/assets/44071acb-33d9-404a-b0d7-9cb2715b00ad" />
+
  
  
  ## SKETCH
